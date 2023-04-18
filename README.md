@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Chuck, a Full Stack Engineer based in New York, NY. I'm passionate about creating scalable and efficient web applications, utilizing cutting-edge technologies and best practices.
+I'm Chuck Song, a Full Stack Engineer based in New York, NY. I'm passionate about creating scalable and efficient web applications, utilizing cutting-edge technologies and best practices.
 
 - 🔭 I’m a Full Stack Engineer
 - 🌱 I’m continuously learning and improving my skills in frontend and backend technologies
