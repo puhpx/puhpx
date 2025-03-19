@@ -4,9 +4,7 @@ I'm Chuck Song, a Full Stack Engineer based in New York, NY. I'm passionate abou
 
 - 🔭 I’m a Full Stack Engineer
 - 🌱 I’m continuously learning and improving my skills in frontend and backend technologies
-- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, MongoDB, and AWS**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chuck-developer) | [GitHub](https://github.com/puhpx) | [Email](mailto:chuckthedeveloper@gmail.com)
-- 🌐 My Portfolio: [chucksong.com](https://chucksong.com)
+- 💬 Ask me about **TypeScript, JavaScript, React, Node.js, PostgreSQL, MongoDB, MySQL and AWS**
 - ⚡ Fun fact: I once landed in a stranger's backyard while pursuing my skydiving C license and didn't get hurt
 
 ## 🛠️ Technical Skills
